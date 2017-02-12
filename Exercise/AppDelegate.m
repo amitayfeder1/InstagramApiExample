@@ -1,9 +1,5 @@
 //
 //  AppDelegate.m
-//  Exercise
-//
-//  Created by Orange on 12/2/16.
-//  Copyright © 2016 Amitay. All rights reserved.
 //
 
 #import "AppDelegate.h"
